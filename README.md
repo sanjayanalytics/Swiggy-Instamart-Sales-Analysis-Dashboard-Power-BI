@@ -67,9 +67,9 @@ The report is designed with dynamic filters and KPI cards to enable data-driven 
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard image here)
+## 📷 Dashboard Preview
 
----
+![Swiggy Instamart Dashboard](Swiggy%20Instamart%20Power%20BI%20Project.png)
 
 ## 👨‍💻 Author
 
