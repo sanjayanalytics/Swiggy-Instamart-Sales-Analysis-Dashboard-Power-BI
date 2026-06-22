@@ -9,14 +9,6 @@ The report is designed with dynamic filters and KPI cards to enable data-driven 
 
 ---
 
-## 📷 Dashboard Preview
-
-<p align="center">
-  <img src="https://github.com/sanjayanalytics/Swiggy-Instamart-Sales-Dashboard-Power-BI-Project-/blob/d35825432bf0e3d48e070ea0defa4d54131b34cf/Swiggy%20Instamart%20Dashboard%20Power%20BI%20Project.png" width="900">
-</p>
-
----
-
 ## 🎯 Key Objectives
 
 * Analyze overall sales and order performance
@@ -25,6 +17,24 @@ The report is designed with dynamic filters and KPI cards to enable data-driven 
 * Identify **Top 10 Categories** contributing to revenue
 * Track order trends based on **Shop Opening Year**
 * Measure customer satisfaction using **Average Ratings**
+
+---
+
+## 🛠 Tools & Technologies Used
+
+* **Power BI Desktop**
+* Data Modeling
+* DAX (Data Analysis Expressions)
+* Power Query (Data Cleaning & Transformation)
+* Data Visualization & Dashboard Design
+
+---
+
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/sanjayanalytics/Swiggy-Instamart-Sales-Dashboard-Power-BI-Project-/blob/d35825432bf0e3d48e070ea0defa4d54131b34cf/Swiggy%20Instamart%20Dashboard%20Power%20BI%20Project.png" width="900">
+</p>
 
 ---
 
@@ -38,16 +48,6 @@ The report is designed with dynamic filters and KPI cards to enable data-driven 
 ✔ Shop Type Performance Table
 ✔ Year-wise Order Trend Analysis
 ✔ Interactive Slicers & Filters
-
----
-
-## 🛠 Tools & Technologies Used
-
-* **Power BI Desktop**
-* Data Modeling
-* DAX (Data Analysis Expressions)
-* Power Query (Data Cleaning & Transformation)
-* Data Visualization & Dashboard Design
 
 ---
 
